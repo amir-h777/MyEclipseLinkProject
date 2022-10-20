@@ -16,7 +16,7 @@ public class Controller {
 		
 		Book book = new Book();
 		//book.setId(1);
-		book.setAuthor("Ghaznfar");
+		book.setAuthor("Ali");
 		book.setTitle("???");
 		
 		bookService.selectById(7);
